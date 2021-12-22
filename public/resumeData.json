@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"Aniket Mohanpuria",
+    "description":"Student in IIIT Pune,Web Developer and I use react,javascript to develop pages. This is a portfolio website based on template by Nordic Giant. I a Currently Learning DataStructures ... \n and you can know more about me by just scrolling down :)",
+    "image":"profile.jpg",
+    "bio":"A Curious Person fond of Learning And Reading. Favourite Book-Alchemist By Paulo Coelho ",
+    "contactmessage":"In Case You wanted to Contact...",
+    "email": "aniketmohanpuria01@gmail.com",
+    "phone": "+919829835731",
+    "github":"https://github.com/anianiket",
+    "project":"https://github.com/anianiket/sign-recogination-to-text-recogination",
+    "address":{
+      "street":"",
+      "city":"jaipur",
+      "state":"Rajasthan",
+      "zip": "303603"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1X72ROWvC95gkLvgj-_YRxfs7erOmExMI/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/aniket.mohanpuria/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aniket-mohanpuria-3ba3a01a9/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/anianiket",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I Have also been learning about machine learning,datastructure and algorithm,Database Management System..",
+    "education":[
+      {
+        "school":"Indian Institute of Information Technology,Pune",
+        "degree":"Bachelor of Technology",
+        "graduated":"2019-2023",
+        "description":"Electronics and Communication Engineering."
+      },
+      {
+        "school":"P.N Public Senior Secondary School",
+        "degree":"Higher Secondary School Certificate",
+        "graduated":"2017-18",
+        "description":""
+      },
+      {
+        "school":"Purushottam Public School",
+        "degree":"Secondary School Certificate",
+        "graduated":"2015-16",
+        "description":"Passed with 79.835%"
+      }
+    ],
+    "work":[
+      {
+        "company":"Currently Looking for Internship And Job",
+        "title":"",
+        "years":"2021-",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"84%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"74%"
+      },
+      {
+        "name":"JAVA",
+        "level":"44%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"Mysql",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Sign Language Recogination",
+        "category":"Image Processing ,Machine Learning ",
+        "image":"1.jpg",
+        "url":"https://github.com/anianiket/sign-recogination-to-text-recogination"
+      },
+      {
+        "title":"AI-assistant (Jacklyn)",
+        "category":"Project made in python using graphic.",
+        "image":"2.jpg",
+        "url":""
+      },
+      {
+        "title":"E-commerce",
+        "category":"Project made using java, css ,html  using netbeans",
+        "image":"3.png",
+        "url":"https://github.com/anianiket/E-Commerce"
+      },
+      {
+        "title":"Seachify",
+        "category":"I used php and CSS in this project and make a search Engine ",
+        "image":"search.png",
+        "url":"https://github.com/anianiket/Searchify.git"
+      }
+
+    ]
+  }
+}
